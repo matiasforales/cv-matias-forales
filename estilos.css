@@ -3,7 +3,7 @@ body {
     background-color: rgb(252, 247, 241);
 }
 
-@media (max-width: 57em) {
+@media (max-width: 912px) {
     table tr {
         display: flex;
         flex-direction: column;
